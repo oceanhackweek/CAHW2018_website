@@ -3,6 +3,17 @@ title: ""
 #description: "February 21-23 2018, UW School of Oceanography"
 ---
 
+## Thank you to all of the CAHW2018 participants!
+
+We are in the process of organizing everyone's hard work.  Check back here for an overview of all of the great projects that came out of CAHW!
+
+If you have photos from the event you'd like to share, please [email us!](mailto:oceanhkw@uw.edu)
+
+![Group photo](images/group_photo.jpg)
+
+----
+
+
 # University of Washington, February 21-23, 2018
 
 To build a stronger user community around the [Cabled Array](http://oceanobservatories.org/array/cabled-array/), and to create and promote effective computational data analysis workflows of the real-time data stream, we will be hosting a Cabled Array Hackweek (CAHW) during February 21-23, 2018, at the University of Washington, Seattle.
