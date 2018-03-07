@@ -21,6 +21,12 @@
   </url>
   
   <url>
+    <loc>https://oceanhackweek.github.io/cabled_array_hw2018/resources/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://oceanhackweek.github.io/cabled_array_hw2018/schedule/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
