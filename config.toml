@@ -1,4 +1,4 @@
-baseURL = "https://oceanhackweek.github.io/cabled_array_hw2018/"
+baseURL = "https://oceanhackweek.github.io/CAHW2018_website/"
 #baseURL = "http://staff.washington.edu/amarburg/cabled_array_hw2018/"
 languageCode = "en-us"
 title = "Cabled Array Hack Week"
