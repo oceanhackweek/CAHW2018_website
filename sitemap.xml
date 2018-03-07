@@ -3,43 +3,43 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://oceanhackweek.github.io/cabled_array_hw2018/</loc>
+    <loc>https://oceanhackweek.github.io/CAHW2018_website/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://oceanhackweek.github.io/cabled_array_hw2018/categories/</loc>
+    <loc>https://oceanhackweek.github.io/CAHW2018_website/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://oceanhackweek.github.io/cabled_array_hw2018/logistics/</loc>
+    <loc>https://oceanhackweek.github.io/CAHW2018_website/logistics/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://oceanhackweek.github.io/cabled_array_hw2018/resources/</loc>
+    <loc>https://oceanhackweek.github.io/CAHW2018_website/resources/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://oceanhackweek.github.io/cabled_array_hw2018/schedule/</loc>
+    <loc>https://oceanhackweek.github.io/CAHW2018_website/schedule/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://oceanhackweek.github.io/cabled_array_hw2018/tags/</loc>
+    <loc>https://oceanhackweek.github.io/CAHW2018_website/tags/</loc>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://oceanhackweek.github.io/cabled_array_hw2018/about/</loc>
+    <loc>https://oceanhackweek.github.io/CAHW2018_website/about/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
