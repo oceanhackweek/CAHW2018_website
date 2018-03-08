@@ -12,7 +12,6 @@ title: "Resources"
 - [CI team portal](http://ooi.visualocean.net/): primary website referenced for M2M access
 - [OOI glossary](http://oceanobservatories.org/glossary/)
 - [Cabled array instrument CheatSheet](https://github.com/oceanhackweek/CAHW2018_Materials/blob/master/Resources/instrument_reference.xlsx)
-- [This](https://github.com/oceanhackweek/CAHW2018_Materials/blob/master/Resources/InstallationTypesDiagram.png) is how the deep water profiler looks like
 
 ## OOI Data Access
 - [Introduction to OOI data access](https://github.com/oceanhackweek/CAHW2018_Materials/blob/master/Resources/OOI_Entirety_Overview_Vardaro_et_al.pdf)
