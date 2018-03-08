@@ -5,10 +5,13 @@ title: ""
 
 ## Thank you to all of the CAHW2018 participants!
 
-We are in the process of organizing everyone's hard work.  Check back here for an overview of all of the great projects that came out of CAHW!
+That was a great time learning and hacking together! :)
+
+We have updated the website so that you can see everyone's hard work on the [Projects](/CAHW2018_website/projects/) page, useful resources under [Resources](/CAHW2018_website/resources/), and links to the tutorial materials directly in [Schedule](/CAHW2018_website/schedule/).
 
 If you have photos from the event you'd like to share, please [email us!](mailto:oceanhkw@uw.edu)
 
+Below is a subset of the CAHW crowd before the project presentation on Friday!
 ![Group photo](images/group_photo.jpg)
 
 ----
