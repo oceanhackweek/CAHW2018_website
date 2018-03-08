@@ -5,20 +5,25 @@ title: "Resources"
 
 # Resources
 
-## OOI Cabled Array Information and Access
-- More information on the Cabled Array:
-[UW Interactiveoceans website](http://interactiveoceans.washington.edu/).
-- OOI Community Tools and Datasets:
-[OOI Main Website](http://oceanobservatories.org/community-tools/)
-- Updates to calibration values and deployment information:
+## OOI Information
+- [UW Interactiveoceans website](http://interactiveoceans.washington.edu/): more information about the Cabled Array
+- [OOI main website](http://oceanobservatories.org/community-tools/): OOI community tools and datasets
+- [OOI main data portal](https://ooinet.oceanobservatories.org/)
+- [CI team portal](http://ooi.visualocean.net/): primary website referenced for M2M access
 - [OOI glossary](http://oceanobservatories.org/glossary/)
-- [OOI Asset Management](ooi-integration/asset-management)
+- [Cabled array instrument CheatSheet](https://github.com/oceanhackweek/CAHW2018_Materials/blob/master/Resources/instrument_reference.xlsx)
+- [This](https://github.com/oceanhackweek/CAHW2018_Materials/blob/master/Resources/InstallationTypesDiagram.png) is how the deep water profiler looks like
+
+## OOI Data Access
+- [Introduction to OOI data access](https://github.com/oceanhackweek/CAHW2018_Materials/blob/master/Resources/OOI_Entirety_Overview_Vardaro_et_al.pdf)
+- [OOI asset management repo](https://github.com/ooi-integration/asset-management) which contains updates to calibration values and deployment information
 - Following updates to [raw data drivers/parsers](https://github.com/oceanobservatories/mi-instrument) that parse the raw instrument data:
 - [Data product algorithms](https://github.com/friedrichknuth/ooi_local_processing) that calculate derived L1 and L2 data products on demand from the parsed data:
   - L1 = a calculated science data product derived from raw data + calibration values
   - L2 = a calculated science data product from raw + calibration values + one or more L1 data products
-- [Awesome notebooks from Friedrich Knuth](https://github.com/friedrichknuth/ooi_local_processing)
-that shows how to go from raw to processed using raw data, calibration values, parsers/drivers and the data product algorithms on your local machine:
+- [An awesome notebook](https://github.com/friedrichknuth/ooi_local_processing)
+that shows how to go from raw to processed using raw data, calibration values, parsers/drivers and the data product algorithms on your local machine
+
 
 
 
