@@ -7,6 +7,8 @@ title: ""
 
 That was a great time learning and hacking together! :)
 
+Please help us plan the next hackweek by filling out this [5-min quick survey](https://goo.gl/forms/MZOfPJmM2pdc0yJh1)!
+
 We have updated the website so that you can see everyone's hard work on the [Projects](/CAHW2018_website/projects/) page, useful resources under [Resources](/CAHW2018_website/resources/), and links to the tutorial materials directly in [Schedule](/CAHW2018_website/schedule/).
 
 If you have photos from the event you'd like to share, please [email us!](mailto:oceanhkw@uw.edu)
