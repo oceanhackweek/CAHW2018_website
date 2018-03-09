@@ -23,9 +23,6 @@ title: "Resources"
 - [An awesome notebook](https://github.com/friedrichknuth/ooi_local_processing)
 that shows how to go from raw to processed using raw data, calibration values, parsers/drivers and the data product algorithms on your local machine
 
-
-
-
 ## Data Science Tools
 - [Data Science Tools Setup](https://uwescience.github.io/2018-01-08-uw/#setup) (Git & Github, nano editor, Anaconda Python)
 - [Python Review](http://swcarpentry.github.io/python-novice-inflammation/)

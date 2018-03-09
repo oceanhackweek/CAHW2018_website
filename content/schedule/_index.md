@@ -28,7 +28,7 @@ Time         | Topic                                            | Instructor(s)
 11:00&nbsp;-&nbsp;12:30  | Hacking                                          |
 12:30&nbsp;-&nbsp;13:30  | Lunch                                            |
 13:30&nbsp;-&nbsp;14:30  | [Data Mining](https://github.com/oceanhackweek/CAHW2018_Materials/tree/master/Tutorials/WhaleSounds)                                      | Valentina&nbsp;Staneva
-14:30&nbsp;-&nbsp;15:00  | Short demo of Cabled Array data processing II <br /> ([hydrophone](https://github.com/oceanhackweek/cahw2018_hydrophone), [camHD](https://github.com/oceanhackweek/cahw2018_camhd))  | Mike&nbsp;Harrington, <br />Tim&nbsp;Crone
+14:30&nbsp;-&nbsp;15:00  | Short demo of Cabled Array data processing II <br /> ([hydrophone](https://github.com/oceanhackweek/cahw2018_hydrophone), [camHD](https://github.com/oceanhackweek/CAHW2018_Materials/tree/master/Projects/CAMHD))  | Mike&nbsp;Harrington, <br />Tim&nbsp;Crone
 15:00&nbsp;-&nbsp;15:30  | Coffee Break                                     |
 15:30&nbsp;-&nbsp;17:00  | More Hacking                                     |
 17:00&nbsp;-       | Optional Hacking - Space Provided                |
@@ -42,4 +42,4 @@ Time         | Topic                                            | Instructor(s)
 11:15&nbsp;-&nbsp;12:30  | Hacking                                          |
 12:30&nbsp;-&nbsp;13:30  | Lunch                                            |
 13:30&nbsp;-&nbsp;15:30  | More Hacking                                     |
-15:30&nbsp;-&nbsp;17:00  | Project Presentations<br/><li>[Synoptic & Ecology](https://github.com/oceanhackweek/CAHW2018_Materials/tree/master/Projects/SynopticEcology)</li><li>[Hydrophone](https://github.com/oceanhackweek/CAHW2018_Materials/tree/master/Projects/Hydrophone)</li><li>[External Resources](https://github.com/oceanhackweek/CAHW2018_Materials/tree/master/Projects/ExternalResources)</li><li>[Python API to OOI M2M RESTful Web Services](https://github.com/lsetiawan/visualoceanpy)</li>                            |
+15:30&nbsp;-&nbsp;17:00  | Project Presentations<br/><li>[Synoptic & Ecology](https://github.com/oceanhackweek/CAHW2018_Materials/tree/master/Projects/SynopticEcology)</li><li>[Hydrophone](https://github.com/oceanhackweek/CAHW2018_Materials/tree/master/Projects/Hydrophone)</li><li>[External Resources](https://github.com/oceanhackweek/CAHW2018_Materials/tree/master/Projects/ExternalResources)</li><li>[Python API to OOI M2M RESTful Web Services](https://github.com/lsetiawan/visualoceanpy)</li><li>[Shallow water profiler](https://github.com/oceanhackweek/CAHW2018_Materials/tree/master/Projects/ShallowProfiler)</li>                            |
